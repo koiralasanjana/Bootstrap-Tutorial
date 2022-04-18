@@ -1,0 +1,39 @@
+.landing-bg{
+	background: url("../img/deerwalk.jpg");
+	height: 100vh;
+	background-size: cover;
+	background-position-y: -200px;
+	position: relative;	/**/
+}
+
+.main-content{
+	position: absolute;	/* */
+	color: #fff;
+	top:35%;
+	left: 30%;
+}
+
+.btn-home{
+	text-transform: uppercase;
+}
+
+.club-intro{
+	height: 300px;
+}
+
+.about-img{
+	background-image: url("../img/introduction.png");
+	background-size: cover;
+	width: 100%;
+}
+
+.event-item{
+	margin: 15px 15px 0;
+}
+
+.article-image{
+	height: 250px;
+	overflow: hidden;
+}
+
+
